@@ -1,0 +1,203 @@
+.title
+{
+
+text-align: center;
+font-size: 30px;
+padding: 10px;
+color:rgba(0,125,125, 0.9);
+}
+*
+{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana;
+    color:#fff;
+   
+
+
+}
+.body
+{
+    margin: 14px;
+
+}
+
+body
+{
+    background: linear-gradient(to left, #333, #333 100%, #eee  70%, #333 75%);
+}
+h1
+{  
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.9);
+text-align: center;
+}
+
+
+h3
+{
+ padding: 10px;
+ color:blue;
+}
+
+
+.black
+{
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    margin-top:35px;
+    float:left;
+    width:100%;
+
+}
+.b1
+{
+    float: left;
+    width:30%;
+    
+
+}
+.b2
+{
+    float:right;
+    width:53%;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.white
+{
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    margin-top:35px;
+    float:left;
+    width:100%;
+
+}
+.w1
+{
+    float: left;
+    width:30%;
+    
+
+}
+.w2
+{
+    float:right;
+    width:53%;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.grey
+{
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    margin-top:35px;
+    float:left;
+    width:100%;
+
+}
+.g1
+{
+    float: left;
+    width:30%;
+
+}
+.g2
+{
+    float:right;
+    width:53%;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.red
+{
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    margin-top:35px;
+    float:left;
+    width:100%;
+
+}
+.r1
+{
+    float: left;
+    width:30%;
+    
+
+}
+.r2
+{
+    float:right;
+    width:53%;
+    text-align: justify;
+    font-size: 22px;
+}
+
+.l1
+{
+    width:33%;
+    float:left;
+    margin:30px;
+}
+.relative
+{
+    float:left;
+}
+.absolute
+{
+    float:right;
+
+}
+.image
+{
+    margin: 10px;
+
+
+}
+.I1
+{
+    margin:10px;
+    position: sticky;
+
+}
+
+.t1
+{
+    width:1300;
+    height:100px;
+    text-align: center;
+    border: solid;
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+}
+.cap
+{
+    padding:5px;
+    margin-bottom: px;
+    font-size:15px;
+    text-transform: uppercase;
+}
+
+.names
+{
+ margin-left:30px;
+ font-size:25px;
+}
+
+.tools
+{
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+    margin:10px;
+    text-align: justify;
+    font-size: 22px;
+}
+
+h4
+{
+    color:green;
+
+}
